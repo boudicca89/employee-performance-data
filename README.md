@@ -41,8 +41,8 @@ Dados agregados e organizados para análise e visualização, prontos para consu
 employee-performance-data/
 ├── notebooks/
 │   ├── bronze_ingestion.ipynb
-│   ├── silver_cleansing.ipynb
-│   └── gold_analytics.ipynb
+│   ├── silver_cleansing.sql
+│   └── gold_analytics.sql
 │
 ├── docs/
 │   ├── data_dictionary.md
