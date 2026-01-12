@@ -29,7 +29,6 @@ Dados agregados e organizados para análise e visualização, prontos para consu
 
 - Python  
 - SQL  
-- PySpark (Databricks)  
 - Google Sheets (fonte de dados)  
 - Jupyter / Databricks Notebooks  
 
